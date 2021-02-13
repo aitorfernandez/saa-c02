@@ -18,6 +18,8 @@
 
 - Multi-AZ allows you to have an exact copy of your production database in another Availability Zone. AWS handles the replication.
 
+- Data transferred between Availability Zones for replication of Multi-AZ deployments is free.
+
 - Multi-AZ is for Disaster Recovery only, it's not primarily used for improving performance. Multi-AZ for the folowing DBs
 
   - SQL Server

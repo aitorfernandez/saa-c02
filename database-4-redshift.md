@@ -6,6 +6,8 @@
 
 - Single node (160GB) or Multi-Node (up to 128 Nodes).
 
+- The most suitable for online analytics processing (OLAP).
+
 - Backups
 
   - Backup enabled by default with a 1 day retention period.
