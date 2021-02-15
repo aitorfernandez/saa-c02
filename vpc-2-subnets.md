@@ -11,3 +11,5 @@
 - Only 1 Internet Gateway per VPC.
 
 - Security Groups do not span VPCs.
+
+- In a custom VPC with new subnets in each AZ, there is a route within the route table that supports communication across all subnets/AZs.

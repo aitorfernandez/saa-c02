@@ -1,10 +1,10 @@
 ## VPC Network Access Control Lists (ACL) vs Security Groups
 
-- After create a new network ACL all rules inbound and outbound deny everything by default.
+- VPC automatically comes with a default network ACL and by default it allows all outbound and inbound traffic.
+
+- After create a custom new network ACL all rules inbound and outbound deny everything by default.
 
 - Network ACLs always act first before security groups.
-
-- VPC automatically comes with a default network ACL and by default it allows all outbound and inbound traffic.
 
 - You can create custom network ACLs. By default, each custom network ACL denies all inbound and outbound traffic until create the rules.
 

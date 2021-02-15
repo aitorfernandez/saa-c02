@@ -5,3 +5,5 @@
 - You are assigned two static IP addresses (or you can bring your own).
 
 - You can control traffic using traffic dials. This is done within the endpoint group.
+
+- Similar to Availability Zones, network zones are isolated units with their own set of physical infrastructure and service IP addresses from a unique IP subnet.
