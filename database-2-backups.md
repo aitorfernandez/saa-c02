@@ -43,3 +43,4 @@
   - Read replicas can have Multi-AZ.
   - Can be promoted to be their own database. This breaks the replication.
   - Can be in a second region.
+  - Read-replicas can help you with high read loads, but are not intended to be a solution to system outages.

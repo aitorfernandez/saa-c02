@@ -34,3 +34,5 @@
 - When you create a DB instance, you can choose an Availability Zone or have AWS choose one for you.
 
 - The easiest way to find out if an error occurred is to look for an Error node in the response from the Amazon RDS API.
+
+- You can't use the standby (secondary database) to offload reads from an application.
