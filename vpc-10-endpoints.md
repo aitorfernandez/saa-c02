@@ -4,7 +4,7 @@
 
 - Traffic between your VPC and the other service does not leave the Amazon network.
 
-- Endpoints are virtual devices. They are horizontally scaled redundant and highly available VPC componnets that allow communication between instances in your VPC and services without imposing availability risks or bandwidth constraints on your network traffic.
+- Endpoints are virtual devices. They are horizontally scaled redundant and highly available VPC components that allow communication between instances in your VPC and services without imposing availability risks or bandwidth constraints on your network traffic.
 
 - Interface Endpoints
 

@@ -18,4 +18,4 @@
 
 - Traffic to the reserved IP address for the default VPC router is not monitored.
 
-- VPC Flow Logs can be created at the VPC, subnet, and network interface levels. VPC Flow Logs is a feature that enables you to capture information about the IP traffic going to and from network interfaces in your VPC. 
+- VPC Flow Logs can be created at the VPC, subnet, and network interface levels.

@@ -12,4 +12,4 @@
 
 - Security Groups do not span VPCs.
 
-- In a custom VPC with new subnets in each AZ, there is a route within the route table that supports communication across all subnets/AZs.
+- In a custom VPC with new subnets in each AZ, there is a route within the route table that supports communication across all AZs.

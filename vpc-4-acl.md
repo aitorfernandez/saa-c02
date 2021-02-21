@@ -6,8 +6,6 @@
 
 - Network ACLs always act first before security groups.
 
-- You can create custom network ACLs. By default, each custom network ACL denies all inbound and outbound traffic until create the rules.
-
 - Each network in the VPC must be associated with a network ACL. If don't explicitly associate with a network ACL the subnet is automatically associated with the default network ACL.
 
 - You can block IP addresses using network ACLs, you can't with security groups.

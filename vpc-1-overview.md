@@ -27,5 +27,3 @@
 - You can have up to five Amazon VPCs per AWS account per AWS Region.
 
 - Security groups control access at the instance-level, they support "allow" rules only, and they evaluate all rules before deciding whether to allow traffic into the instance(s).
-
-- Security groups operate at the instance level, they support "allow" rules only, and they evaluate all rules before deciding whether to allow traffic.

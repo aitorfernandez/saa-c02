@@ -8,7 +8,7 @@
   - NAT instances must be in a public subnet.
   - There must be a route out of the private subnet to the NAT instance in order for this to work.
   - The amount of traffic depends on the instance size.
-  - Behind a Security group.
+  - Not behind a Security group, exists on its own.
 
 - NAT gateway is a highly available gateway allow you yo have your private subnets communicate out to the internet.
 

@@ -7,7 +7,7 @@
 - Two different types of read models
 
   - Eventual Consistent Read (Default, one-second rule).
-  - Strongly Consistent Read (Read data after write within os less than one second).
+  - Strongly Consistent Read (Read data after write within or less than one second).
 
 - Primary key can be either a single-attribute or a composite partition-sort key.
 
